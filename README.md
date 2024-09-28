@@ -34,10 +34,7 @@ This project demonstrates the implementation of network connectivity between mul
    - Troubleshoot issues based on ping responses (latency, packet loss, etc.).
 
 ## Usage
-- After configuring the network, run the `ping` command from one network to devices on the other network to verify connectivity:
-    ```bash
-    ping <destination IP>
-    ```
+- After configuring the network, run the `ping` command from one network to devices on the other network to verify connectivity.
 
 ## Troubleshooting
 - If network connectivity fails, check:
